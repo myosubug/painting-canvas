@@ -1,4 +1,4 @@
-# paint
+# painting on canvas
 
 This is an app that can:
 
@@ -10,7 +10,7 @@ This is an app that can:
 
 ## Live example
 
-
+* https://myosubug.github.io/painting-canvas/
 
 ## Prerequisites
 
